@@ -2,7 +2,7 @@
 - 👀 I’m interested in most things
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me per@grillnielsen.dk
+- 📫 How to reach me pergrill@gmail.com
 
 <!---
 pergrill/pergrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
